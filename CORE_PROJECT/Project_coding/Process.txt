@@ -1,0 +1,8 @@
+PROCESS TO RUN CODING:-
+STEP1:-First get the code for the each title which is comparsion with the intervansion
+STEP2:-Go to google colab
+STEP3:-Enter the new notebook
+STEP4:-Enter the code in it
+STEP5:-Upload the dataset in the left side in it and it must be in csv format
+STEP6:-Now copy the path of file and paste it in code
+STEP7:-Run the code and get the output
